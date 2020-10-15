@@ -1,1 +1,0 @@
-# rencana-ke-depan-nya

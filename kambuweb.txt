@@ -1,0 +1,4 @@
+# rencana-ke-depan-nya
+belajar  php
+belajar mysql
+codeigniter
